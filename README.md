@@ -21,10 +21,10 @@
 Front-end Developer
 
 - 🔭 Trabalhando em: **Asimov Jr.**
-- 🌱 Aprendendo: **Java e Spring**
-- :herb: Proximos Aprendizados: **Docker, Heroku, JavaScript, MongoDB, NodeJs, Python, React**
-- :mailbox: Contao: **otaviokoike07@gmail.com**
-- :page_facing_up: Curriculo: 
+- 🌱 Aprendendo: **React e NodeJs**
+- :herb: Proximos Aprendizados: **Docker, Heroku, JavaScript, MongoDB, Python**
+- :mailbox: Contato: **otaviokoike07@gmail.com**
+- :page_facing_up: Curriculo: [Curriculum Vitae](https://github.com/OtavioKoike/Curriculum-Vitae)
 
 <h2> About me: </h2>
 
