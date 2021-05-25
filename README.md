@@ -24,7 +24,7 @@ Front-end Developer
 - 🌱 Aprendendo: **React e NodeJs**
 - :herb: Proximos Aprendizados: **Docker, Heroku, JavaScript, MongoDB, Python**
 - :mailbox: Contato: **otaviokoike07@gmail.com**
-- :page_facing_up: Curriculo: [Curriculum Vitae](https://github.com/OtavioKoike/Curriculum-Vitae)
+- :page_facing_up: Curriculo: [Curriculum Vitae](https://github.com/OtavioKoike/Curriculum-Vitae/blob/master/Curriculo%20Vitae.pdf)
 
 <h2> About me: </h2>
 
