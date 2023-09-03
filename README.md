@@ -1,5 +1,5 @@
 <h2 align = "center"> Eae Beleza?! :fist_oncoming: Meu nome é Otávio Koike </h2>
-<h3 align = "center"> Apaixonado por aprender e se desenvolver em novas tecnologias</h3>
+<h3 align = "center"> Buscando me tornar um excelente desenvolvedor em &lt;T&gt;</h3>
 
 <!--
 <p align="center">
@@ -21,10 +21,11 @@
 Back-end Developer
 
 - 🔭 Trabalhando em: **Banco PAN**
-- 🌱 Aprendendo: **.Net e RxJs Angular**
-- :herb: Proximos Aprendizados: **AWS, Azure e Docker**
+- 🌳 Tecnologia Principal: **C# / .NET**
+- 🌱 Aprimorando: **AWS, Clean Architecture e Design Patterns**
+- :herb: Proximos Aprendizados: **Docker**
 - :mailbox: Contato: **otaviokoike@hotmail.com**
-- :page_facing_up: Curriculo: [Curriculum Vitae](https://github.com/OtavioKoike/Curriculum-Vitae/blob/master/Curriculo%20Vitae.pdf)
+- :page_facing_up: Curriculo: **[Curriculum Vitae](https://github.com/OtavioKoike/Curriculum-Vitae/blob/master/Curriculo%20Vitae.pdf)**
 
 <h2> Dashboard </h2>
 
@@ -46,7 +47,7 @@ Back-end Developer
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dot-net/dot-net-original.svg" alt=".Net" width="40" height="40"/></a>
 <!-- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40"/></a> -->
 <!-- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/></a> -->
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+<!-- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> -->
   
 <h3> Front-end </h3>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Angular" width="40" height="40"/></a>
@@ -56,14 +57,18 @@ Back-end Developer
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/></a>
   
 <h3> Databases </h3>
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SqlServer" width="40" height="40"/></a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="40" height="40"/></a>
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/></a>
-  
+<!-- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/></a> -->
+
+<h3> Cloud </h3>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" width="40" height="40"/></a>
+
 <h3> Tools </h3>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="VisualStudio" width="40" height="40"/></a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VScode" width="40" height="40"/></a>
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="Intellij" width="40" height="40"/></a>
+<!-- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="Intellij" width="40" height="40"/></a> -->
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/></a>
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   
